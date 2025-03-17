@@ -6,8 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasaugustosilva323@gmail.com)
 
 ## Sobre o Projeto 
-O Projeto se encontra no notebook [presente neste link](https://github.com/DougAugSilva/Treinando-uma-Rede-Neural-GAN-em-Python/blob/main/GUN.ipynb), nele eu explico o básico da teoria e crio uma rede neural generativa do tipo GUN, bem como realizo o treinamento dela com o conhecido conjunto de dados MNIST, de algarismos de 0 a 9 escritos a mão. No final a rede será capaz, com base nos dados de treionamento, de criar imagens de seus própriops algaraismos. O conetudo tem por base o curso *Inteligências Artificiais Generativas com Python* que ralizei na platafoprma *Udemy*.
-
+O Projeto se encontra no notebook [presente neste link](https://github.com/DougAugSilva/Treinando-uma-Rede-Neural-GAN-em-Python/blob/main/GUN.ipynb), nele eu explico o básico da teoria e crio uma rede neural generativa do tipo GUN, bem como realizo o treinamento dela com o conhecido conjunto de dados MNIST, de algarismos de 0 a 9 escritos a mão. No final a rede será capaz, com base nos dados de treinamento, de criar imagens de seus próprios algarismos. O conteúdo tem por base o curso *Inteligências Artificiais Generativas com Python* que realizei na plataforma *Udemy*.
 ## Tecnologias Utilizadas
 - Python
 - Jupyter Notebooks
