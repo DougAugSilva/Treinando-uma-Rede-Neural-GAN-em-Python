@@ -11,6 +11,7 @@ O Projeto se encontra no notebook [presente neste link](https://github.com/DougA
 ## Tecnologias Utilizadas
 - Python
 - Jupyter Notebooks
+- Google Colab
 - Pytorch
 - Matplotlib
 - Numpy
